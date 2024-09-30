@@ -10,6 +10,15 @@ The goal of this project is to demonstrate the power and importance of AI in aut
 
 ![App Screenshot](https://github.com/YashChauhan0001/Speech_to_Text/blob/main/images/demo_img.png)
 
+## Tech Stack
+
+Python
+
+Gradio
+
+Transformers
+
+OpenAI whisper-large-v3
 
 ## Support
 
